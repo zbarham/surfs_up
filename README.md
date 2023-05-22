@@ -9,9 +9,11 @@ The purpose of this analysis is to provide W. Avy with temperature data for the 
 Here are some key differences observed in the temperature for the months of June and December:
 
 - June Summary Statistics:
+   
    ![Deliverable1_June-Temps](Screenshots/Deliverable1_June-Temps.png)
 
 - December Summary Statistics:
+   
    ![Deliverable2_December-Temps](Screenshots/Deliverable2_December-Temps.png)
 
 ### Key Differences
